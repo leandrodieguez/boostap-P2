@@ -1,8 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 body {
     padding: 0;
     margin: 0;
     height: 100%;
     width: 100%;
+    background-color: #212529;
+}
+
+main {
+    padding-right: 1rem;
+    padding-left: 1rem;
 }
 
 h2 {
@@ -42,18 +53,15 @@ hr {
     margin-top: 50px;  
 }
 
-.container p {
-    margin-bottom: 0px;
-}
-
-
-
-
 .col-md-7 h2,
 .col-md-7 p{
     margin-left: 20px;
     margin-top: 20px;
     font-size: 30px;
+}
+
+.container p {
+    margin-bottom: 20px;
 }
 
 
