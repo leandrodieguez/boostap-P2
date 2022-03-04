@@ -42,6 +42,11 @@ hr {
     margin-top: 50px;  
 }
 
+.container p {
+    margin-bottom: 0px;
+}
+
+
 
 
 .col-md-7 h2,
