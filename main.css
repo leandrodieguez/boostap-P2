@@ -1,0 +1,55 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+h2 {
+    color: #dc3545;
+}
+
+p {
+    color: aliceblue;
+}
+
+hr {
+    color: aliceblue;
+}
+
+a {
+    color: #dc3545;
+    
+}
+
+hr {
+    color: #dc3545;
+    opacity: 10;
+}
+
+.carousel-item {
+    height: 32rem;
+  }
+  .carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
+  }
+
+.row {
+    margin-top: 50px;  
+}
+
+
+
+.col-md-7 h2,
+.col-md-7 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+
+
